@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDAE&width=435&lines=Ol%C3%A1!+Eu+sou+Victhor+Coppola;:D)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDAE&width=435&lines=Ol%C3%A1!+Eu+sou+Victhor+Coppola)
 
 Estudo por conta própria programação, prefiro aprender essas coisas já aplicando em projetos.
 
