@@ -15,10 +15,6 @@ Estudo programação por conta própria, prefiro aprender essas coisas já aplic
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
 
-## Atividade
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ImVecTHOR&theme=gotham)
-
 ## Você pode entrar em contato por:
 - 📧 Email: **techsensacao@gmail.com**
 
